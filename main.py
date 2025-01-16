@@ -182,7 +182,7 @@ invite.pack(pady=10)
 button2 = customtkinter.CTkButton(tabview.tab("Page 1"), text="Spoof Games (Coming Soon)", width=500)
 button2.pack(pady=10)
 
-button3 = customtkinter.CTkButton(tabview.tab("Page 1"), text="Gamertag To XUID", command=GTTOXUID, width=500)
+button3 = customtkinter.CTkButton(tabview.tab("Page 1"), text="Gamertag To XUID (Coming Soon)", width=500)
 button3.pack(pady=10)
 
 button4 = customtkinter.CTkButton(tabview.tab("Page 2"), text="Coming Soon....", width=500)
