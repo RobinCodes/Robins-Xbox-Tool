@@ -1,2 +1,4 @@
 # Robins-Xbox-Tool
-Base for my newest Xbox API tool
+The base for my upcoming Xbox party tool (coming soon)
+# Discord
+Join discord: https://discord.com/invite/6pSR2Rcqeg
